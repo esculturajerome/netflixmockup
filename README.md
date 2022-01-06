@@ -1,13 +1,13 @@
-# Netflix Mockup using Reactjs
+# Junix using Reactjs
 
 ![Desktop](https://user-images.githubusercontent.com/23787783/89725866-ed2df780-da46-11ea-9ffd-e62fa5912f6e.png)
 ![Mobile](https://user-images.githubusercontent.com/23787783/89725863-e7381680-da46-11ea-8e16-f472beebe7b8.png)
 
-### [Live Site](https://netflix-mockup.web.app/)
+### [Live Site](https://junix.netlify.app/)
 
 ## Introduction
 
-A mockup of Netflix website
+A copy of Netflix website
 
 Setup:
 
